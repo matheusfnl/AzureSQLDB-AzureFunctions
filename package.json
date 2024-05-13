@@ -1,0 +1,13 @@
+{
+  "name": "dad-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mssql": "^10.0.2"
+  }
+}
